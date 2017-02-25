@@ -48,3 +48,5 @@ prod_command_trap () {
 }
 shopt -s extdebug
 trap prod_command_trap DEBUG
+
+[ -s "/Users/alex/.scm_breeze/scm_breeze.sh" ] && source "/Users/alex/.scm_breeze/scm_breeze.sh"
