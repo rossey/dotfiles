@@ -83,5 +83,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias v="vagrant"
 PATH=$PATH:/Users/alex/.gem/ruby/2.0.0/bin
 [ -s "/Users/alex/.scm_breeze/scm_breeze.sh" ] && source "/Users/alex/.scm_breeze/scm_breeze.sh"
